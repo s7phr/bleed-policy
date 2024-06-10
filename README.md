@@ -1,5 +1,3 @@
----
-
 # Bleed Privacy Policy
 
 **Effective Date:** June 9th, 2024  
@@ -71,5 +69,3 @@ If you have any questions about this Privacy Policy, please contact us at:
 - **Support Server:** [https://discord.gg/perks](https://discord.gg/perks)
 
 By using Bleed, you acknowledge that you have read and understood this Privacy Policy and agree to its terms.
-
----
